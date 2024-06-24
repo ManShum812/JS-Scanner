@@ -18,6 +18,7 @@ Prepare Input File: Create a file named input_urls.txt with the URLs you want to
 Run the Script: python js.py
 
 Output: The results will be saved in output_results.txt.
+![111](https://github.com/ManShum812/JS-Scanner/assets/43279996/76577f51-3294-401e-96bc-e29e2b02f49a)
 
 # Contributing
 Let me know if there's anything else you'd like to add or adjust!
