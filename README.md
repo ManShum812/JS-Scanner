@@ -12,11 +12,12 @@ Efficient Requests: Uses HTTP HEAD requests to check URL status before fetching 
 
 # Installation and Usage:
 Install Dependencies: Ensure requests is installed (pip install requests).
-Prepare Input File: Create a file named input_urls.txt with the URLs you want to scan, one per line.
-Run the Script: python js.py
-Output: The results will be saved in output_results.txt.
 
-python wayback.py
+Prepare Input File: Create a file named input_urls.txt with the URLs you want to scan, one per line.
+
+Run the Script: python js.py
+
+Output: The results will be saved in output_results.txt.
 
 # Contributing
 Let me know if there's anything else you'd like to add or adjust!
