@@ -17,7 +17,7 @@ Prepare Input File: Create a file named input_urls.txt with the URLs you want to
 
 Run the Script: python js.py
 
-Output: The results will be saved in output_results.txt.
+Output: The results will be saved in output_results.txt. The file will contain details about any sensitive data found, including the type of data and the matched pattern.
 ![111](https://github.com/ManShum812/JS-Scanner/assets/43279996/df2745b1-beb4-4b43-97a8-3bafaf0f4a47)
 
 
