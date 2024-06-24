@@ -20,6 +20,9 @@ Run the Script: python js.py
 Output: The results will be saved in output_results.txt.
 ![111](https://github.com/ManShum812/JS-Scanner/assets/43279996/76577f51-3294-401e-96bc-e29e2b02f49a)
 
+![1111](https://github.com/ManShum812/JS-Scanner/assets/43279996/735f9849-3cd0-47e2-8bb9-f33e6d78ce20)
+
+
 Note: T-Mobile has already removed the exposed API key after I reported this issue on T-Mobile's bug bounty program on Bugcrowd.
 
 # Contributing
