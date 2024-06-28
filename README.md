@@ -21,5 +21,5 @@ Output: The results will be saved in output_results.txt. The file will contain d
 ![111](https://github.com/ManShum812/JS-Scanner/assets/43279996/df2745b1-beb4-4b43-97a8-3bafaf0f4a47)
 
 
-# Contributing
-Let me know if there's anything else you'd like to add or adjust!
+# Get Involved
+Your contributions are welcome! You can help improve this project by opening issues or submitting pull requests. If you have any ideas to enhance the tool, please share them. Together, we can make the web a safer place!
