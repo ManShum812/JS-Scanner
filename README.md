@@ -1,5 +1,5 @@
 # Overview
-This is a script I've developed to scan a bunch of JS URLs provided in a .txt file for sensitive data like passwords, tokens, and keys. It fetches content from the URLs and searches for various types of sensitive information.
+This is a script I've developed to scan a bunch of URLs provided in a .txt file for sensitive data like passwords, tokens, and keys. It fetches content from the URLs and searches for various types of sensitive information. While originally intended for JS URLs, this script can scan any type of URL.
 
 # Features
 Concurrent Scanning: Utilizes a thread pool to scan multiple URLs concurrently for faster results.
